@@ -25,4 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Onsraa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Onsraa&icon=5&color=3)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/Onsraa/count.svg)
