@@ -1,4 +1,4 @@
-![Logo](https://imgur.com/JSYzNgM)
+![Logo](https://i.imgur.com/JSYzNgM.png)
 
 # 💻 Tech Stack:
 | Programming languages | Game engine |
