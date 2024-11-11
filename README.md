@@ -1,1 +1,1 @@
-I commit today to marry the rust.
+Je m'engage à la vie et à la mort avec le Rust.
