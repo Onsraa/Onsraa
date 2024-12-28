@@ -1,2 +1,2 @@
-# <uwu<
+# <(._.<)
 Currently sweating on rust.
