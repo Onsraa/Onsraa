@@ -1,0 +1,99 @@
+<svg viewBox="0 0 680 250" width="680" height="250" overflow="visible" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes l1 {0%,4%{opacity:0}5%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes l2 {0%,12%{opacity:0}13%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes l3 {0%,20%{opacity:0}21%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes l4 {0%,28%{opacity:0}29%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes l5 {0%,36%{opacity:0}37%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes l6 {0%,41%{opacity:0}42%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes l7 {0%,49%{opacity:0}50%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes l8 {0%,57%{opacity:0}58%,82%{opacity:1}84%,100%{opacity:0}}
+      @keyframes blink {0%,100%{opacity:1}50%{opacity:0}}
+
+      .editor {
+        filter: drop-shadow(0 0 10px rgba(203,166,247,.6)) drop-shadow(0 0 28px rgba(203,166,247,.2));
+      }
+
+      .l1 {opacity:0;animation:l1 10s infinite}
+      .l2 {opacity:0;animation:l2 10s infinite}
+      .l3 {opacity:0;animation:l3 10s infinite}
+      .l4 {opacity:0;animation:l4 10s infinite}
+      .l5 {opacity:0;animation:l5 10s infinite}
+      .l6 {opacity:0;animation:l6 10s infinite}
+      .l7 {opacity:0;animation:l7 10s infinite}
+      .l8 {opacity:0;animation:l8 10s infinite}
+      .cursor {animation:blink 0.8s step-start infinite}
+    </style>
+  </defs>
+
+  <g class="editor" font-family="'Courier New',Consolas,Monaco,monospace" font-size="13">
+
+    <!-- ── Background ── -->
+    <rect width="680" height="250" rx="12" fill="#1e1e2e"/>
+
+    <!-- ── Title bar ── -->
+    <rect width="680" height="38" rx="12" fill="#181825"/>
+    <rect y="26" width="680" height="12" fill="#181825"/>
+    <circle cx="22" cy="19" r="6" fill="#f38ba8"/>
+    <circle cx="44" cy="19" r="6" fill="#f9e2af"/>
+    <circle cx="66" cy="19" r="6" fill="#a6e3a1"/>
+    <text x="340" y="24" text-anchor="middle" font-size="12" fill="#6c7086">main.rs — onsraa</text>
+
+    <!-- ── Line number gutter ── -->
+    <line x1="50" y1="38" x2="50" y2="250" stroke="#313244" stroke-width="1" stroke-opacity="0.3"/>
+
+    <!-- ── Code (xml:space preserves indentation) ── -->
+    <g xml:space="preserve">
+
+      <!-- 1 │ fn main() { -->
+      <g class="l1" opacity="0">
+        <text x="44" y="68" text-anchor="end" fill="#45475a">1</text>
+        <text x="58" y="68"><tspan fill="#cba6f7">fn</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#89b4fa">main</tspan><tspan fill="#cdd6f4">() {</tspan></text>
+      </g>
+
+      <!-- 2 │     let teddy = Agent::spawn("Teddy Truong") -->
+      <g class="l2" opacity="0">
+        <text x="44" y="90" text-anchor="end" fill="#45475a">2</text>
+        <text x="58" y="90"><tspan fill="#cdd6f4">    </tspan><tspan fill="#cba6f7">let</tspan><tspan fill="#cdd6f4"> teddy = </tspan><tspan fill="#f9e2af">Agent</tspan><tspan fill="#cdd6f4">::</tspan><tspan fill="#89b4fa">spawn</tspan><tspan fill="#cdd6f4">(</tspan><tspan fill="#a6e3a1">"Teddy Truong"</tspan><tspan fill="#cdd6f4">)</tspan></text>
+      </g>
+
+      <!-- 3 │         .stack(&["Rust", "Bevy"]) -->
+      <g class="l3" opacity="0">
+        <text x="44" y="112" text-anchor="end" fill="#45475a">3</text>
+        <text x="58" y="112"><tspan fill="#cdd6f4">        .</tspan><tspan fill="#89b4fa">stack</tspan><tspan fill="#cdd6f4">(&amp;[</tspan><tspan fill="#a6e3a1">"Rust"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Bevy"</tspan><tspan fill="#cdd6f4">])</tspan></text>
+      </g>
+
+      <!-- 4 │         .interests(&["Multi-Agent Systems", "Simulations", "Robotics"]) -->
+      <g class="l4" opacity="0">
+        <text x="44" y="134" text-anchor="end" fill="#45475a">4</text>
+        <text x="58" y="134"><tspan fill="#cdd6f4">        .</tspan><tspan fill="#89b4fa">interests</tspan><tspan fill="#cdd6f4">(&amp;[</tspan><tspan fill="#a6e3a1">"Multi-Agent Systems"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Simulations"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Robotics"</tspan><tspan fill="#cdd6f4">])</tspan></text>
+      </g>
+
+      <!-- 5 │         .currently("mafis"); -->
+      <g class="l5" opacity="0">
+        <text x="44" y="156" text-anchor="end" fill="#45475a">5</text>
+        <text x="58" y="156"><tspan fill="#cdd6f4">        .</tspan><tspan fill="#89b4fa">currently</tspan><tspan fill="#cdd6f4">(</tspan><tspan fill="#a6e3a1">"mafis"</tspan><tspan fill="#cdd6f4">);</tspan></text>
+      </g>
+
+      <!-- 6 │ (empty line) -->
+      <g class="l6" opacity="0">
+        <text x="44" y="178" text-anchor="end" fill="#45475a">6</text>
+      </g>
+
+      <!-- 7 │     loop { teddy.build().learn().repeat(); } -->
+      <g class="l7" opacity="0">
+        <text x="44" y="200" text-anchor="end" fill="#45475a">7</text>
+        <text x="58" y="200"><tspan fill="#cdd6f4">    </tspan><tspan fill="#cba6f7">loop</tspan><tspan fill="#cdd6f4"> { teddy.</tspan><tspan fill="#89b4fa">build</tspan><tspan fill="#cdd6f4">().</tspan><tspan fill="#89b4fa">learn</tspan><tspan fill="#cdd6f4">().</tspan><tspan fill="#89b4fa">repeat</tspan><tspan fill="#cdd6f4">(); }</tspan></text>
+      </g>
+
+      <!-- 8 │ } + blinking cursor -->
+      <g class="l8" opacity="0">
+        <text x="44" y="222" text-anchor="end" fill="#45475a">8</text>
+        <text x="58" y="222"><tspan fill="#cdd6f4">}</tspan></text>
+        <rect x="66" y="209" width="8" height="15" class="cursor" fill="#cdd6f4"/>
+      </g>
+
+    </g>
+  </g>
+</svg>
