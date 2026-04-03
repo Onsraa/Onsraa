@@ -1,6 +1,6 @@
-hi, Teddy here :)
+# hi, Teddy here :)
 
-i like rust, bouldering and love my family
+**i like rust, bouldering and my family**
 
 ## Current projects 
 - 🦠 **[MAFIS](https://stasis-website.vercel.app/simulator)** - Multi-Agent Fault Injection Simulator
