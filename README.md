@@ -7,4 +7,3 @@ building in the robotics space since late 2025. currently exploring:
 
 ## Current projects 
 - 🦠 **[MAFIS](https://stasis-website.vercel.app/simulator)** - Multi-Agent Fault Injection Simulator
-- 🪫 **[REMAP](https://github.com/Onsraa/remap)** - Rescue-Enhanced Multi-Agent Pathfinding
