@@ -1,6 +1,6 @@
 # hi, i'm teddy.
 
-**rust enthusiast · bouldering · family first**
+**rust enthusiast 🦀 · bouldering · family**
 
 building simulators. currently exploring: 
 - **multi-agents systems & embedded systems**
