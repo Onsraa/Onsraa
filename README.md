@@ -2,8 +2,9 @@
 
 **rust enthusiast · bouldering · family first**
 
-building in the robotics space since late 2025. currently exploring: 
+building simulators. currently exploring: 
 - **multi-agents systems & embedded systems**
+- **quantum physics & electronics**
 
 ## Current projects 
 - 🦠 **[MAFIS](https://stasis-website.vercel.app/simulator)** - Multi-Agent Fault Injection Simulator
