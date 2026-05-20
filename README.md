@@ -9,4 +9,4 @@ building simulators. currently exploring:
 ## Current projects 
 - 🦠 **[MAFIS](https://stasis-website.vercel.app/simulator)** - Multi-Agent Fault Injection Simulator
 - 🛰️ **[DRONE-SWARM](https://github.com/Onsraa/drone-swarm.git)** - GPU-accelerated drone-swarm exploration sim
-- 🛠️ **[VOXIT](https://github.com/Onsraa/voxit.git)** - Import .dcm/.tiff and export into .vox
+- 🛠️ **[VOXIT](https://github.com/Onsraa/voxit.git)** - Import .tiff and export into .vox
