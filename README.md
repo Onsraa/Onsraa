@@ -12,4 +12,3 @@ building simulators and tools. currently exploring:
 
 ## Archived projects 
 - 🦠 **[MAFIS](https://stasis-website.vercel.app/simulator)** - Multi-Agent Fault Injection Simulator
-- 🛠️ **[VOXIT](https://github.com/Onsraa/voxit.git)** - Import .tiff and export into .vox
