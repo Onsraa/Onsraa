@@ -2,9 +2,7 @@
 
 **rust enthusiast · bouldering · family**
 
-building simulators and tools. currently exploring: 
-- **multi-agents systems & embedded systems**
-- **quantum physics & electronics**
+building simulators and tools.
 
 ## Current projects 
 - 🗓️ **[SPRINT0](https://github.com/Onsraa/sprint0.git)** - High-Velocity Orchestrator tool for Engineering Teams
