@@ -2,7 +2,7 @@
 
 **rust enthusiast · bouldering · family**
 
-building simulators and tools.
+building the next unicorn.
 
 ## Current projects 
 - 🗓️ **[sprint0](https://github.com/Onsraa/sprint0.git)** - High-Velocity Orchestrator tool for Engineering Teams
