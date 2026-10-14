@@ -5,7 +5,7 @@
 building the next unicorn.
 
 ## Hackathon winning projects 
-- 📐 **[cressey](https://github.com/Onsraa/cressey.git)** - [🥇 1st place (2000€) at ESSECKATHON Secure Horizons 2026 - Track AI for Security & Secure AI] AI agent fraud tool inspired by the triangle of Cressey
+- 📐 **[cressey](https://github.com/Onsraa/cressey.git)** - [🥇 1st place (2000€) - ESSECKATHON Secure Horizons 2026 - AI for Security & Secure AI] Guardrails that stops AI agents committing frauds
 
 ## Pinned projects 
 - 🦠 **[mafis](https://stasis-website.vercel.app/simulator)** - [PAAMS 2026 - Paper] Multi-Agent Fault Injection Simulator
